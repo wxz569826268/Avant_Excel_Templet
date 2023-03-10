@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelTemplet", "ExcelTemplet.csproj", "{CFC4263F-611B-4805-98ED-A8648F8AB311}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avant_ExcelTempletHelper", "..\Avant_ExcelTempletHelper\Avant_ExcelTempletHelper.csproj", "{737D9FBB-32FA-4E31-8E3A-1A271AD69D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC4263F-611B-4805-98ED-A8648F8AB311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC4263F-611B-4805-98ED-A8648F8AB311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC4263F-611B-4805-98ED-A8648F8AB311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC4263F-611B-4805-98ED-A8648F8AB311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{737D9FBB-32FA-4E31-8E3A-1A271AD69D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737D9FBB-32FA-4E31-8E3A-1A271AD69D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737D9FBB-32FA-4E31-8E3A-1A271AD69D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737D9FBB-32FA-4E31-8E3A-1A271AD69D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58B7A624-E235-4A3C-8BC1-0906E55B59F1}
+	EndGlobalSection
+EndGlobal
