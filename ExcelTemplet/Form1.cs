@@ -95,15 +95,6 @@ namespace ExcelTemplet
                 }
                 else MessageBox.Show("出现错误" + tempback);
 
-                //try
-                //{
-                //    excel.Save();
-                //}
-                //catch (Exception ex)
-                //{
-                //    MessageBox.Show("错误:" + ex.Message.ToString());
-                //    // throw;
-                //}
             }        
         }
 
@@ -113,6 +104,7 @@ namespace ExcelTemplet
             numericUpDown2.Value = 0;
             numericUpDown3.Value = 31;
             numericUpDown4.Value = 10;
+
         }
 
         private void button5_Click(object sender, EventArgs e)

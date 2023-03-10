@@ -114,7 +114,7 @@ namespace Avant_ExcelTempletHelper
           
         }
         /// <summary>
-        /// 保存文件
+        /// 保存文件，避免独占方式打开后再次保存抛出的异常
         /// </summary>
         public string SafeSave()
         { 
